@@ -6,7 +6,8 @@ This repository is based on a tkinter course from "Udemy".
 
 
 ## Dependencies :vertical_traffic_light:
-The dependencies 
+The dependencies are mainly python libraries and the correct usage of them. < br />
+My advice is to primary understand the "pip" package installer, before working with other dependencies.
 
 
 ### Software dependencies
