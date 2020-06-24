@@ -1,0 +1,8 @@
+#Ignore the vscode settings
+.vscode
+
+#Ignore the python local cache
+__pycache__
+
+#Ignore virtual environments for python
+venv
