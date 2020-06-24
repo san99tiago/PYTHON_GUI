@@ -54,7 +54,7 @@ I will be uploading most of the files, and try to keep it as clean as possible.
 
 
 ## Special thanks :gift:
-* Thanks to my university professor: <Santiago Mendez>
+* Thanks to my university professor: Santiago Mendez
 * Thanks to all contributors for the great OpenSource projects that I am using. 
 
 
