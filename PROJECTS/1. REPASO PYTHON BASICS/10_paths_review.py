@@ -1,5 +1,5 @@
 #REVIEW OF PATHS IN PYTHON TO ACCESS OTHER DIRECTORIES
-#Santiago Garcia Arango, June 2020
+#Santiago Garcia Arango
 
 import os
 print( os.getcwd() ) #Current work directory (can change based on the directory from where this is run)
