@@ -1,4 +1,4 @@
-# BASICS OF PYQT4
+# BASICS OF PYQT5
 # Santiago Garcia Arango, July 2020
 # Tutorial based on <sentdex: PyQt Python GUI Application Development>
 
