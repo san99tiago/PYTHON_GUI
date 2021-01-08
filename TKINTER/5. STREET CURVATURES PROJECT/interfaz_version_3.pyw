@@ -29,7 +29,7 @@ font_3 = ("Verdana",10)
 root = tk.Tk()
 
 #Se agrega el titulo a la ventana de trabajo, para mostrar en la parte superior
-root.title("TRABAJO CAMILA MARTÍNEZ DÍAZ")
+root.title("TRABAJO SANTIAGO GARCIA")
 
 #Se da un color de fondo predeterminado
 root.configure( bg = "black" )
